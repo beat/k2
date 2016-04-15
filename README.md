@@ -2,6 +2,13 @@
 
 ##IMPORTANT: Not maintained officially, use at your own risk!!!
 
+**No automatic upgrades server provided. To upgrade:**
+* Fork this repository
+* Merge from k2/master
+* Reinstall over the Zip file from your fork (or install from the Zip file URL)
+
+## You have been warned: Use at your own risk and upgrades!
+
 ![K2](https://getk2.org/assets/files/logo/k2_logo.png)
 
 [![Stories in Ready](https://badge.waffle.io/getk2/k2.png?label=ready&title=Ready)](https://waffle.io/getk2/k2)
