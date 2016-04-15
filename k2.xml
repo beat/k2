@@ -276,6 +276,7 @@
 				<field name="k2SefInsertCatId" default="1" />
 				<field name="k2SefCatIdTitleAliasSep" default="dash" />
 				<field name="k2SefUseCatTitleAlias" default="1" />
+				<field name="cbIntegration" default="0" />
 			</fieldset>
 		</fields>
 	</config>
