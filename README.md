@@ -1,3 +1,7 @@
+# Temporary unsupported fork of K2 reverting CB support removal until K2 team implements their CB-integration plugin
+
+##IMPORTANT: Not maintained officially, use at your own risk!!!
+
 ![K2](https://getk2.org/assets/files/logo/k2_logo.png)
 
 [![Stories in Ready](https://badge.waffle.io/getk2/k2.png?label=ready&title=Ready)](https://waffle.io/getk2/k2)
